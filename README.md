@@ -30,11 +30,20 @@ Open to full-stack developer opportunities
 </p>
 
 ```
+~/activity
+```
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramondw2000/ramondw2000/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/ramondw2000/ramondw2000/output/github-contribution-grid-snake.svg" alt="a snake eating through my contribution graph, one commit at a time">
+</picture>
+
+```
 ~/projects
 ```
 
 - **[whatsapp-archive-viewer](https://github.com/ramondw2000/whatsapp-archive-viewer-pc)** — desktop app for browsing exported WhatsApp chat archives. Tauri, Rust, TypeScript.
-- **cropsmith** — browser-based image cropping tool, fully client-side, no accounts or uploads.
+- **[cropsmith](https://cropsmith.vercel.app/)** — browser-based image cropping tool, fully client-side, no accounts or uploads.
 - **[restaurant-app](https://github.com/ramondw2000/Team-404-Restaurant-App)** — full-stack restaurant management system. Laravel, Livewire.
 - **[cv_website](https://ramon-de-wilde.dev)** — my portfolio/CV app (closed source). Next.js on Vercel, Supabase, a scale-to-zero Docker runner on Render for live project demos.
 
