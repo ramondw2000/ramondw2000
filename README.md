@@ -65,15 +65,6 @@ Open to full-stack developer opportunities
 </p>
 
 ```
-~/trophies
-```
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ramondw2000&no-bg=true&no-frame=true&row=1&column=-1&margin-w=6&margin-h=6&title.color=ece8ec&icon.color=b268f3&text.color=948e97&rank-icon=github">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramondw2000&no-bg=true&no-frame=true&row=1&column=-1&margin-w=6&margin-h=6&title.color=1c1a17&icon.color=7e22ce&text.color=75706a&rank-icon=github" alt="GitHub profile trophies">
-</picture>
-
-```
 ~/certificates
 ```
 
