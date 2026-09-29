@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/coder-video.gif" alt="me, actually typing, 2am" width="560">
+  <img src="assets/coder-video.gif" alt="me, actually typing, 2am" width="100%">
 </p>
 
 ```
@@ -92,6 +92,6 @@ Reliable · Collegial · Loyal · Driven · Friendly
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-signoff-dark.svg">
-    <img src="assets/terminal-signoff-light.svg" alt="$ ./sign-off.sh -- saving session... thanks for stopping by -> ramon-de-wilde.dev">
+    <img src="assets/terminal-signoff-light.svg" alt="$ ./sign-off.sh -- saving session... thanks for stopping by -> ramon-de-wilde.dev" width="560">
   </picture>
 </p>
