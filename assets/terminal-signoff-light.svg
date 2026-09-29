@@ -1,4 +1,4 @@
-<svg viewBox="0 0 300 108" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="terminal sign-off sequence">
+<svg viewBox="0 0 300 108" width="300" height="108" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="terminal sign-off sequence">
   <title>$ ./sign-off.sh</title>
   <style>
     .bg { fill: #fafafa; stroke: #e2ddd6; stroke-width: 1; }
@@ -35,6 +35,6 @@
     <text class="ln" x="16" y="50" clip-path="url(#c2)">saving session...</text>
     <text class="ln" x="16" y="72" clip-path="url(#c3)">thanks for stopping by</text>
     <text class="ln" x="16" y="94" clip-path="url(#c4)">-&gt; ramon-de-wilde.dev</text>
-    <rect class="cursor" x="211" y="82" width="8" height="14"/>
+    <rect class="cursor" x="196" y="82" width="8" height="14"/>
   </g>
 </svg>
