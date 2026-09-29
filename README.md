@@ -13,7 +13,7 @@
   </picture>
 </p>
 
-Full-stack developer based in the Netherlands. I build web apps end-to-end — from Laravel backends to AI-assisted tooling — and I like taking a project from idea through to something people can actually use.
+Full-stack developer based in the Netherlands. I build web apps end-to-end, from Laravel backends to AI-assisted tooling, and I like taking a project from idea through to something people can actually use.
 
 ```
 ~/status
@@ -50,10 +50,10 @@ Open to full-stack developer opportunities
 ~/projects
 ```
 
-- **[whatsapp-archive-viewer](https://github.com/ramondw2000/whatsapp-archive-viewer-pc)** — desktop app for browsing exported WhatsApp chat archives. Tauri, Rust, TypeScript.
-- **[cropsmith](https://cropsmith.vercel.app/)** — browser-based image cropping tool, fully client-side, no accounts or uploads.
-- **[restaurant-app](https://github.com/ramondw2000/Team-404-Restaurant-App)** — full-stack restaurant management system. Laravel, Livewire.
-- **[cv_website](https://ramon-de-wilde.dev)** — my portfolio/CV app (closed source). Next.js on Vercel, Supabase, a scale-to-zero Docker runner on Render for live project demos.
+- **[whatsapp-archive-viewer](https://github.com/ramondw2000/whatsapp-archive-viewer-pc)**: desktop app for browsing exported WhatsApp chat archives. Tauri, Rust, TypeScript.
+- **[cropsmith](https://cropsmith.vercel.app/)**: browser-based image cropping tool, fully client-side, no accounts or uploads.
+- **[restaurant-app](https://github.com/ramondw2000/Team-404-Restaurant-App)**: full-stack restaurant management system. Laravel, Livewire.
+- **[cv_website](https://ramon-de-wilde.dev)**: my portfolio/CV app (closed source). Next.js on Vercel, Supabase, a scale-to-zero Docker runner on Render for live project demos.
 
 ```
 ~/github-achievements
@@ -70,8 +70,8 @@ Open to full-stack developer opportunities
 ~/certificates
 ```
 
-- **Professional Scrum Master™ I (PSM I)** — Scrum.org, May 2026
-- **Software Engineering Track** — Capgemini Academy, Jun 2026
+- **Professional Scrum Master™ I (PSM I)**: Scrum.org, May 2026
+- **Software Engineering Track**: Capgemini Academy, Jun 2026
 
 ```
 ~/qualities
