@@ -56,17 +56,6 @@ Open to full-stack developer opportunities
 - **[cv_website](https://ramon-de-wilde.dev)**: my portfolio/CV app (closed source). Next.js on Vercel, Supabase, a scale-to-zero Docker runner on Render for live project demos.
 
 ```
-~/github-achievements
-```
-
-<p align="center">
-  <a href="https://github.com/ramondw2000?tab=achievements"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Pull_Shark_(Silver_%C3%973)-0a0a0c?style=for-the-badge&logo=github&logoColor=b268f3"><img src="https://img.shields.io/badge/Pull_Shark_(Silver_%C3%973)-fafafa?style=for-the-badge&logo=github&logoColor=7e22ce" alt="Pull Shark, Silver, x3"></picture></a>
-  <a href="https://github.com/ramondw2000?tab=achievements"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Pair_Extraordinaire_(Silver_%C3%973)-0a0a0c?style=for-the-badge&logo=github&logoColor=b268f3"><img src="https://img.shields.io/badge/Pair_Extraordinaire_(Silver_%C3%973)-fafafa?style=for-the-badge&logo=github&logoColor=7e22ce" alt="Pair Extraordinaire, Silver, x3"></picture></a>
-  <a href="https://github.com/ramondw2000?tab=achievements"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Quickdraw-0a0a0c?style=for-the-badge&logo=github&logoColor=b268f3"><img src="https://img.shields.io/badge/Quickdraw-fafafa?style=for-the-badge&logo=github&logoColor=7e22ce" alt="Quickdraw"></picture></a>
-  <a href="https://github.com/ramondw2000?tab=achievements"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/YOLO-0a0a0c?style=for-the-badge&logo=github&logoColor=b268f3"><img src="https://img.shields.io/badge/YOLO-fafafa?style=for-the-badge&logo=github&logoColor=7e22ce" alt="YOLO"></picture></a>
-</p>
-
-```
 ~/certificates
 ```
 
