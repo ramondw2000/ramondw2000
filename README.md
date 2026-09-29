@@ -1,4 +1,4 @@
-<img src="assets/coder-video.gif" alt="me, actually typing, 2am" width="832">
+<img src="assets/coder-video.gif" alt="me, actually typing, 2am" width="560">
 
 ```
 ~/ramon-de-wilde $ whoami
