@@ -8,8 +8,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&weight=500&size=16&duration=2200&pause=1200&color=B268F3&center=false&vCenter=true&width=560&height=30&lines=Full-stack+developer%2C+Netherlands;Laravel+backends+to+AI-assisted+tooling;git+commit+-m+%27ship+it%27">
-    <img src="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&weight=500&size=16&duration=2200&pause=1200&color=7E22CE&center=false&vCenter=true&width=560&height=30&lines=Full-stack+developer%2C+Netherlands;Laravel+backends+to+AI-assisted+tooling;git+commit+-m+%27ship+it%27" alt="Full-stack developer, Netherlands">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&weight=500&size=24&duration=2200&pause=1200&color=B268F3&center=false&vCenter=true&width=620&height=42&lines=Full-stack+developer%2C+Netherlands;Laravel+backends+to+AI-assisted+tooling;git+commit+-m+%27ship+it%27">
+    <img src="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&weight=500&size=24&duration=2200&pause=1200&color=7E22CE&center=false&vCenter=true&width=620&height=42&lines=Full-stack+developer%2C+Netherlands;Laravel+backends+to+AI-assisted+tooling;git+commit+-m+%27ship+it%27" alt="Full-stack developer, Netherlands">
   </picture>
 </p>
 
