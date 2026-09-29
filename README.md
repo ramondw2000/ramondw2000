@@ -88,10 +88,3 @@ Reliable · Collegial · Loyal · Driven · Friendly
 ```
 
 [ramon-de-wilde.dev](https://ramon-de-wilde.dev) · [LinkedIn](https://www.linkedin.com/in/ramon-de-wilde-379421421/)
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-signoff-dark.svg">
-    <img src="assets/terminal-signoff-light.svg" alt="$ ./sign-off.sh -- saving session... thanks for stopping by -> ramon-de-wilde.dev" width="560">
-  </picture>
-</p>
