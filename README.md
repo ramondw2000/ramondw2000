@@ -1,10 +1,12 @@
-<img src="assets/coder-video.gif" alt="me, actually typing, 2am" width="560">
+<p align="center">
+  <img src="assets/coder-video.gif" alt="me, actually typing, 2am" width="560">
+</p>
 
 ```
 ~/ramon-de-wilde $ whoami
 ```
 
-<p>
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&weight=500&size=16&duration=2200&pause=1200&color=B268F3&center=false&vCenter=true&width=560&height=30&lines=Full-stack+developer%2C+Netherlands;Laravel+backends+to+AI-assisted+tooling;git+commit+-m+%27ship+it%27">
     <img src="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&weight=500&size=16&duration=2200&pause=1200&color=7E22CE&center=false&vCenter=true&width=560&height=30&lines=Full-stack+developer%2C+Netherlands;Laravel+backends+to+AI-assisted+tooling;git+commit+-m+%27ship+it%27" alt="Full-stack developer, Netherlands">
@@ -23,7 +25,7 @@ Open to full-stack developer opportunities
 ~/stack
 ```
 
-<p>
+<p align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-0a0a0c?style=for-the-badge&logo=javascript&logoColor=b268f3"><img src="https://img.shields.io/badge/JavaScript-fafafa?style=for-the-badge&logo=javascript&logoColor=7e22ce" alt="JavaScript"></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HTML-0a0a0c?style=for-the-badge&logo=html5&logoColor=b268f3"><img src="https://img.shields.io/badge/HTML-fafafa?style=for-the-badge&logo=html5&logoColor=7e22ce" alt="HTML"></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS-0a0a0c?style=for-the-badge&logo=css3&logoColor=b268f3"><img src="https://img.shields.io/badge/CSS-fafafa?style=for-the-badge&logo=css3&logoColor=7e22ce" alt="CSS"></picture>
@@ -39,10 +41,12 @@ Open to full-stack developer opportunities
 ~/activity
 ```
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramondw2000/ramondw2000/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/ramondw2000/ramondw2000/output/github-contribution-grid-snake.svg" alt="a snake eating through my contribution graph, one commit at a time">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramondw2000/ramondw2000/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/ramondw2000/ramondw2000/output/github-contribution-grid-snake.svg" alt="a snake eating through my contribution graph, one commit at a time">
+  </picture>
+</p>
 
 ```
 ~/projects
@@ -57,7 +61,7 @@ Open to full-stack developer opportunities
 ~/github-achievements
 ```
 
-<p>
+<p align="center">
   <a href="https://github.com/ramondw2000?tab=achievements"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Pull_Shark_(Silver_%C3%973)-0a0a0c?style=for-the-badge&logo=github&logoColor=b268f3"><img src="https://img.shields.io/badge/Pull_Shark_(Silver_%C3%973)-fafafa?style=for-the-badge&logo=github&logoColor=7e22ce" alt="Pull Shark, Silver, x3"></picture></a>
   <a href="https://github.com/ramondw2000?tab=achievements"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Pair_Extraordinaire_(Silver_%C3%973)-0a0a0c?style=for-the-badge&logo=github&logoColor=b268f3"><img src="https://img.shields.io/badge/Pair_Extraordinaire_(Silver_%C3%973)-fafafa?style=for-the-badge&logo=github&logoColor=7e22ce" alt="Pair Extraordinaire, Silver, x3"></picture></a>
 </p>
@@ -85,7 +89,9 @@ Reliable · Collegial · Loyal · Driven · Friendly
 
 [ramon-de-wilde.dev](https://ramon-de-wilde.dev) · [LinkedIn](https://www.linkedin.com/in/ramon-de-wilde-379421421/)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-signoff-dark.svg">
-  <img src="assets/terminal-signoff-light.svg" alt="$ ./sign-off.sh -- saving session... thanks for stopping by -> ramon-de-wilde.dev">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-signoff-dark.svg">
+    <img src="assets/terminal-signoff-light.svg" alt="$ ./sign-off.sh -- saving session... thanks for stopping by -> ramon-de-wilde.dev">
+  </picture>
+</p>
