@@ -1,7 +1,11 @@
+```
+~/ramon-de-wilde $ whoami
+```
+
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&weight=500&size=16&duration=2800&pause=1200&color=B268F3&center=false&vCenter=true&width=560&height=30&lines=%7E%2Framon-de-wilde+%24+whoami;Full-stack+developer%2C+Netherlands;Laravel+backends+to+AI-assisted+tooling">
-    <img src="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&weight=500&size=16&duration=2800&pause=1200&color=7E22CE&center=false&vCenter=true&width=560&height=30&lines=%7E%2Framon-de-wilde+%24+whoami;Full-stack+developer%2C+Netherlands;Laravel+backends+to+AI-assisted+tooling" alt="~/ramon-de-wilde $ whoami">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&weight=500&size=16&duration=2200&pause=1200&color=B268F3&center=false&vCenter=true&width=560&height=30&lines=Full-stack+developer%2C+Netherlands;Laravel+backends+to+AI-assisted+tooling;git+commit+-m+%27ship+it%27">
+    <img src="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&weight=500&size=16&duration=2200&pause=1200&color=7E22CE&center=false&vCenter=true&width=560&height=30&lines=Full-stack+developer%2C+Netherlands;Laravel+backends+to+AI-assisted+tooling;git+commit+-m+%27ship+it%27" alt="Full-stack developer, Netherlands">
   </picture>
 </p>
 
