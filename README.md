@@ -30,8 +30,6 @@ Open to full-stack developer opportunities
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HTML-0a0a0c?style=for-the-badge&logo=html5&logoColor=b268f3"><img src="https://img.shields.io/badge/HTML-fafafa?style=for-the-badge&logo=html5&logoColor=7e22ce" alt="HTML"></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS-0a0a0c?style=for-the-badge&logo=css3&logoColor=b268f3"><img src="https://img.shields.io/badge/CSS-fafafa?style=for-the-badge&logo=css3&logoColor=7e22ce" alt="CSS"></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SCSS-0a0a0c?style=for-the-badge&logo=sass&logoColor=b268f3"><img src="https://img.shields.io/badge/SCSS-fafafa?style=for-the-badge&logo=sass&logoColor=7e22ce" alt="SCSS"></picture>
-</p>
-<p>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PHP-0a0a0c?style=for-the-badge&logo=php&logoColor=b268f3"><img src="https://img.shields.io/badge/PHP-fafafa?style=for-the-badge&logo=php&logoColor=7e22ce" alt="PHP"></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Laravel-0a0a0c?style=for-the-badge&logo=laravel&logoColor=b268f3"><img src="https://img.shields.io/badge/Laravel-fafafa?style=for-the-badge&logo=laravel&logoColor=7e22ce" alt="Laravel"></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Git-0a0a0c?style=for-the-badge&logo=git&logoColor=b268f3"><img src="https://img.shields.io/badge/Git-fafafa?style=for-the-badge&logo=git&logoColor=7e22ce" alt="Git"></picture>
@@ -64,8 +62,6 @@ Open to full-stack developer opportunities
 <p align="center">
   <a href="https://github.com/ramondw2000?tab=achievements"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Pull_Shark_(Silver_%C3%973)-0a0a0c?style=for-the-badge&logo=github&logoColor=b268f3"><img src="https://img.shields.io/badge/Pull_Shark_(Silver_%C3%973)-fafafa?style=for-the-badge&logo=github&logoColor=7e22ce" alt="Pull Shark, Silver, x3"></picture></a>
   <a href="https://github.com/ramondw2000?tab=achievements"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Pair_Extraordinaire_(Silver_%C3%973)-0a0a0c?style=for-the-badge&logo=github&logoColor=b268f3"><img src="https://img.shields.io/badge/Pair_Extraordinaire_(Silver_%C3%973)-fafafa?style=for-the-badge&logo=github&logoColor=7e22ce" alt="Pair Extraordinaire, Silver, x3"></picture></a>
-</p>
-<p>
   <a href="https://github.com/ramondw2000?tab=achievements"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Quickdraw-0a0a0c?style=for-the-badge&logo=github&logoColor=b268f3"><img src="https://img.shields.io/badge/Quickdraw-fafafa?style=for-the-badge&logo=github&logoColor=7e22ce" alt="Quickdraw"></picture></a>
   <a href="https://github.com/ramondw2000?tab=achievements"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/YOLO-0a0a0c?style=for-the-badge&logo=github&logoColor=b268f3"><img src="https://img.shields.io/badge/YOLO-fafafa?style=for-the-badge&logo=github&logoColor=7e22ce" alt="YOLO"></picture></a>
 </p>
