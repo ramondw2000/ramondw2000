@@ -1,6 +1,9 @@
-```
-~/ramon-de-wilde $ whoami
-```
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&weight=500&size=16&duration=2800&pause=1200&color=B268F3&center=false&vCenter=true&width=560&height=30&lines=%7E%2Framon-de-wilde+%24+whoami;Full-stack+developer%2C+Netherlands;Laravel+backends+to+AI-assisted+tooling">
+    <img src="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&weight=500&size=16&duration=2800&pause=1200&color=7E22CE&center=false&vCenter=true&width=560&height=30&lines=%7E%2Framon-de-wilde+%24+whoami;Full-stack+developer%2C+Netherlands;Laravel+backends+to+AI-assisted+tooling" alt="~/ramon-de-wilde $ whoami">
+  </picture>
+</p>
 
 Full-stack developer based in the Netherlands. I build web apps end-to-end — from Laravel backends to AI-assisted tooling — and I like taking a project from idea through to something people can actually use.
 
@@ -32,7 +35,7 @@ Open to full-stack developer opportunities
 
 - **[whatsapp-archive-viewer](https://github.com/ramondw2000/whatsapp-archive-viewer-pc)** — desktop app for browsing exported WhatsApp chat archives. Tauri, Rust, TypeScript.
 - **cropsmith** — browser-based image cropping tool, fully client-side, no accounts or uploads.
-- **restaurant-app** — full-stack restaurant management system. Laravel, Livewire.
+- **[restaurant-app](https://github.com/ramondw2000/Team-404-Restaurant-App)** — full-stack restaurant management system. Laravel, Livewire.
 - **[cv_website](https://ramon-de-wilde.dev)** — my portfolio/CV app (closed source). Next.js on Vercel, Supabase, a scale-to-zero Docker runner on Render for live project demos.
 
 ```
