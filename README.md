@@ -13,8 +13,7 @@
   </picture>
 </p>
 
-Full-stack developer based in the Netherlands. I build web apps end-to-end, from Laravel backends to AI-assisted tooling, and I like taking a project from idea through to something people can actually use.
-
+Full-stack developer based in the Netherlands. I build web apps end-to-end, from Laravel backends to AI-assisted tooling, and  I like taking projects from idea to something people can actually use.
 ```
 ~/status
 ```
