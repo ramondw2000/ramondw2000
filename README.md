@@ -61,14 +61,14 @@ Open to full-stack developer opportunities
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Firebase-0a0a0c?style=for-the-badge&logo=firebase&logoColor=b268f3"><img src="https://img.shields.io/badge/Firebase-fafafa?style=for-the-badge&logo=firebase&logoColor=7e22ce" alt="Firebase"></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/VMware-0a0a0c?style=for-the-badge&logo=vmware&logoColor=b268f3"><img src="https://img.shields.io/badge/VMware-fafafa?style=for-the-badge&logo=vmware&logoColor=7e22ce" alt="VMware"></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Claude%20Code-0a0a0c?style=for-the-badge&logo=claude&logoColor=b268f3"><img src="https://img.shields.io/badge/Claude%20Code-fafafa?style=for-the-badge&logo=claude&logoColor=7e22ce" alt="Claude Code"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ChatGPT-0a0a0c?style=for-the-badge&logo=openai&logoColor=b268f3"><img src="https://img.shields.io/badge/ChatGPT-fafafa?style=for-the-badge&logo=openai&logoColor=7e22ce" alt="ChatGPT"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GPT-0a0a0c?style=for-the-badge&logo=openai&logoColor=b268f3"><img src="https://img.shields.io/badge/GPT-fafafa?style=for-the-badge&logo=openai&logoColor=7e22ce" alt="GPT"></picture>
 </p>
 
 ```
 ~/workflow
 ```
 
-Scrum · Git workflow with PRs and issues · GitHub Actions release automation · AI-assisted development (Claude Code, ChatGPT)
+Scrum · Git workflow with PRs and issues · GitHub Actions release automation · AI-assisted development (Claude Code, GPT)
 
 ```
 ~/activity
