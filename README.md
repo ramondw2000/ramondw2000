@@ -84,9 +84,11 @@ Scrum · Git workflow with PRs and issues · GitHub Actions release automation �
 ~/projects
 ```
 
+<!-- projects:start -->
 - **[whatsapp-archive-viewer](https://github.com/ramondw2000/whatsapp-archive-viewer-pc)**: desktop app for browsing exported WhatsApp chat archives. Tauri, Rust, TypeScript.
 - **[cropsmith](https://cropsmith.vercel.app/)**: browser-based image cropping tool, fully client-side, no accounts or uploads.
 - **[restaurant-app](https://github.com/ramondw2000/Team-404-Restaurant-App)**: full-stack restaurant management system. Laravel, Livewire.
+<!-- projects:end -->
 - **[cv_website](https://ramon-de-wilde.dev)**: my portfolio/CV app (closed source), with a Dutch/English toggle and a downloadable PDF CV. Next.js on Vercel, Supabase, a scale-to-zero Docker runner on Render for live project demos.
 
 ```
