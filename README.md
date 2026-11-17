@@ -85,9 +85,13 @@ Scrum · Git workflow with PRs and issues · GitHub Actions release automation �
 ```
 
 <!-- projects:start -->
-- **[whatsapp-archive-viewer](https://github.com/ramondw2000/whatsapp-archive-viewer-pc)**: desktop app for browsing exported WhatsApp chat archives. Tauri, Rust, TypeScript.
-- **[cropsmith](https://cropsmith.vercel.app/)**: browser-based image cropping tool, fully client-side, no accounts or uploads.
-- **[restaurant-app](https://github.com/ramondw2000/Team-404-Restaurant-App)**: full-stack restaurant management system. Laravel, Livewire.
+- **intertwinedroots**: Privacy-first family tree site where researchers build their own tree and, if they choose to, link it into one shared world tree.
+- **ROM-Manager**: Windows app that keeps track of your ROM collection and goes online to find out whether there's a newer version of each game or romhack, and whether updating would break your save.
+- **[Cropsmith](https://cropsmith.vercel.app/)**: Browser-based tool for cropping images, entirely client-side. No accounts, no server, no uploads.
+- **[Whatsapp archive viewer](https://github.com/ramondw2000/whatsapp-archive-viewer-pc)**: Desktop app for viewing exported WhatsApp chat archives, built with Tauri (Rust + TypeScript).
+- **[Team-404: RestaurantApp / MolvenoCLI](https://github.com/ramondw2000/Team-404-Restaurant-App)**: Full-stack restaurant management system for daily restaurant operations, built with Laravel and Livewire.
+- **The-Judo-Technique-Archive**: A comprehensive reference guide for judo techniques, built with Laravel and Tailwind CSS. Standing and ground techniques are each equipped with a video, written explanation, and the original Japanese name with its meaning.
+- **chat-archive-tui**: A terminal tool for browsing exported chat logs from the chat apps people actually use, with support for WhatsApp Archive Viewer's native export format.
 <!-- projects:end -->
 - **[cv_website](https://ramon-de-wilde.dev)**: my portfolio/CV app (closed source), with a Dutch/English toggle and a downloadable PDF CV. Next.js on Vercel, Supabase, a scale-to-zero Docker runner on Render for live project demos.
 
